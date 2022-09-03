@@ -1,5 +1,4 @@
-//THIS CODE IS NOT MINE 
-//I use a guide explanation to create this NOT MINE
+//I use a guide explanation to replicate the experiment so not 100% mine
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
