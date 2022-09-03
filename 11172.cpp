@@ -12,7 +12,5 @@ int main()
     }else{
       std::cout<<"="<<std::endl;
     }
-  };
-}
     return 0;
 }
