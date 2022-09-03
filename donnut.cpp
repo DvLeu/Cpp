@@ -1,3 +1,5 @@
+//THIS CODE IS NOT MINE 
+//I use a guide explanation to create this NOT MINE
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
