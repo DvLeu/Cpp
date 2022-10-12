@@ -1,16 +1,17 @@
 #include <stdio.h>
-#include <iostream>
+
 int main()
 {
-    int a,b;
-    std::cin>>a;
-    std::cin>>b;
-    if(a>b){
-      std::cout<<">"<<std::endl;
-    }else if(a<b){
-      std::cout<<"<"<<std::endl;
+    long long ally ;
+    long long enemy;
+    long long rest;
+    
+    if(a > b){
+
+    cout << a - b;
     }else{
-      std::cout<<"="<<std::endl;
+    cout << b - a;
     }
+    
     return 0;
 }
